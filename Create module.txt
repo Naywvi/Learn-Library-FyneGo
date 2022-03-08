@@ -1,0 +1,6 @@
+In terminal : 
+
+go mod init Name_of_module
+go get Name_of_package
+
+(here : fyne.io/fyne/v2)
